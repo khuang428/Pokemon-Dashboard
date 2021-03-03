@@ -1,0 +1,23 @@
+body{
+    background-color: #385570;
+    color: white;
+    margin: 0;
+}
+
+h2{
+    margin-bottom: 0;
+}
+
+#pcd{
+    width: 80%;
+    margin: auto;
+}
+
+#type_bar, #tier_bar, #gen_bar{
+    width: 33%;
+    display: inline-block;
+}
+
+.graph_div{
+    height:45vh;
+}
